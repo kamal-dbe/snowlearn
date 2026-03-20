@@ -1,7 +1,6 @@
 sources:
-  - name: learn_db
+  - name: learn
     database: learn_db
-    schema: learn
     tables:
       - name: bike
       - name: weather
