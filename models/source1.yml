@@ -1,0 +1,7 @@
+sources:
+  - name: learn_db
+    database: learn_db
+    schema: learn
+    tables:
+      - name: bike
+      - name: weather
